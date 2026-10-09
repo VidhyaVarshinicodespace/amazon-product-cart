@@ -1,8 +1,9 @@
 
 function Footer() {
   return (
-    <footer>
-      © 2026 Amazon Product Store
+    <footer className="footer">
+      <p>SmartCart <span>•</span> Shop Smarter, Live Better</p>
+      <small>© 2026 Amazon Product Store</small>
     </footer>
   );
 }

@@ -1,9 +1,14 @@
 
 function Header() {
   return (
-    <h1 style={{ color: "#146eb4" }}>
-      Amazon Product Store
-    </h1>
+    <header className="header">
+      <div className="brand">
+        <span className="brand-icon">🛒</span>
+        <h1>Smart<span>Cart</span></h1>
+      </div>
+
+      <p className="header-tagline">Better Products · Brighter Everyday</p>
+    </header>
   );
 }
 
