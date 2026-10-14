@@ -29,7 +29,7 @@ A React-based product shopping interface demonstrating component-based UI develo
 
 1. Clone the repository:
 
-   `git clone `https://github.com/VidhyaVarshinicodespace/amazon-product-cart/edit/main/README.md
+   `git clone `https://github.com/VidhyaVarshinicodespace/amazon-product-cart
 
 2. Open the project directory:
 
