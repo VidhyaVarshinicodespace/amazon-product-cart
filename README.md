@@ -1,39 +1,62 @@
-## React
+# Amazon-Style Product Cart
 
-This is a simple React application. This application serves as a basic template for a react applications.  
-This project is bootstrapped with [Vite](https://vitejs.dev/guide/).
+A React-based product shopping interface demonstrating component-based UI development and interactive state management.
 
-## How to run
+## Features
 
-1. Before running the application, make sure all dependencies are installed. To install dependencies, run following command in terminal:
+- Reusable React components
+- Product information display
+- Product color selection
+- Quantity state management
+- Interactive user controls
+- Responsive product interface
 
-   ```sh
-   npm install
-   ```
+## Technology Stack
 
-2. Once dependencies are installed, run the following command to start the application:
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-   ```sh
-   npm run dev
-   ```
+## Getting Started
 
-3. Refresh the URL in simple browser to see the output.
+### Prerequisites
+- Node.js
+- npm
 
-## FAQs & Debugging
+### Installation
 
-### 1. I do not see browser in my workspace
+1. Clone the repository:
 
-Studio will automatically open the app in a new browser tab. If not, you can use the following steps to open the simple browser
+   `git clone `https://github.com/VidhyaVarshinicodespace/amazon-product-cart/edit/main/README.md
 
-1. From VS Code command pallette(`Ctrl/Cmd + Shift + P`), run **Studio Manager: SimpleBrowser Default URL** command. This will open the app in a new browser tab.
+2. Open the project directory:
 
-2. Your app runs on hosted env which can be accessed using host id, port provided in file **.vscode/.studio/studio-env.json**. Use values to create the URL as follows:
-   `https://<STUDIO_HOST_ID>-3000.<STUDIO_DOMAIN>`
+   `cd amazon-product-cart`
 
-### 2. Getting `vite: not found` error
+3. Install dependencies:
 
-This means node_modules are missing in your workspace, please refer the 'How to run' section and make sure you have followed the steps in sequence
+   `npm install`
 
-### 3. Can I use create-react-app instead Vite?
+4. Start the development server:
 
-Yes, you can use create-react-app instead Vite, the default workspace is loaded with Vite setup, you can remove the Vite dependencies, add create-react-app dependencies and update the scripts to start using create-react-app.
+   `npm run dev`
+
+5. Open the local URL displayed in your terminal.
+
+## Learning Outcomes
+
+- React components and props
+- State management with `useState`
+- Side effects with `useEffect`
+- Controlled inputs
+- Frontend styling and interaction
+
+## Author
+
+VidhyaVarshini Padmanaban
+
+GitHub: https://github.com/VidhyaVarshinicodespace
+
+LinkedIn: https://www.linkedin.com/in/vidhyavarshini-padmanaban-68813632a/
