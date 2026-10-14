@@ -29,21 +29,21 @@ A React-based product shopping interface demonstrating component-based UI develo
 
 1. Clone the repository:
 
-   `git clone `https://github.com/VidhyaVarshinicodespace/amazon-product-cart
-
-2. Open the project directory:
+   `git clone https://github.com/VidhyaVarshinicodespace/amazon-product-cart`
+   
+3. Open the project directory:
 
    `cd amazon-product-cart`
 
-3. Install dependencies:
+4. Install dependencies:
 
    `npm install`
 
-4. Start the development server:
+5. Start the development server:
 
    `npm run dev`
 
-5. Open the local URL displayed in your terminal.
+6. Open the local URL displayed in your terminal.
 
 ## Learning Outcomes
 
